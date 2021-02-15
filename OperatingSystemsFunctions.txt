@@ -4,3 +4,5 @@ scanner. All of these examples send data to a computer which allows you to inter
 a video on you monitor which would not be possible without the operating system and input device. 
 
 Another example of output devices are printers, monitors and speakers. Output devices convert information into text, audio and video. When you search your favorite movie scene on Youtube you will be using an a monitor to display the images and speakers to listen to the audio. 
+
+One of the most important operating system functions is the security. The operating system uses password protection to protect user data. In addition, the operating system also prevents the access of unauthorized users to access your personal and private information. 
