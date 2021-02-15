@@ -1,0 +1,4 @@
+Operating system functions: 
+Some functions of operating system does is to handle input devices. some examples of an input device would be a keyboard, mouse and a
+scanner. All of these examples send data to a computer which allows you to interact and control it. With a click of your mouse you can play 
+a video on you monitor which would not be possible without the operating system and input device. 
